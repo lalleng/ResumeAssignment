@@ -1,0 +1,19 @@
+img{
+    width: 300px;
+    height: 300px;
+}
+h1{text-align: center;}
+h1{font-size: 45pt;}
+h1{font-family: Arial, Helvetica, sans-serif;}
+h1{color: rgb(132, 172, 247);}
+h1{border-style: dotted; border-radius: 10pc;}
+h1{background-color:gray;}
+h2{text-align: center;}
+#image2 img{width: 280px; height: 350px;}
+#GDA h2{background-color: rgb(2, 152, 245);}
+#boxed h2{background-color: lightskyblue;}
+h3{background-color: rgb(245, 225, 190);}
+h2{background-color: lightskyblue;}
+#blank h3{background-color:rgb(219, 206, 189);}
+#white h3{background-color:rgb(219, 206, 189);}
+body{background-color: rgb(219, 206, 189);}
