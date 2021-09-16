@@ -1,19 +1,37 @@
 img{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
 }
+img{border: 7px solid rgb(83, 83, 83);}
 h1{text-align: center;}
-h1{font-size: 45pt;}
-h1{font-family: Arial, Helvetica, sans-serif;}
-h1{color: rgb(132, 172, 247);}
+h1{font-size: 70pt;}
+h1{font-family:Tangerine;}
+h1{color: rgb(1, 24, 66);}
 h1{border-style: dotted; border-radius: 10pc;}
-h1{background-color:gray;}
+h1{inline-size: 800px;}
+h1{background-color:rgb(255, 255, 255);}
+h1{padding: 20px;}
+h1{margin: 0 auto;}
+h1{margin-bottom: 10px;}
+h1{text-shadow:lightskyblue;}
+h1{text-shadow: -2px 0 rgb(0, 0, 0), 0 3px lightskyblue, 5px 0 lightskyblue, 0 -2px lightskyblue;;}
+
 h2{text-align: center;}
 #image2 img{width: 280px; height: 350px;}
-#GDA h2{background-color: rgb(2, 152, 245);}
+#GDA h2{background-color: rgb(2, 152, 245);padding: 10px;}
+#GDA h2{font-family: Verdana, Geneva, Tahoma, sans-serif;font-style: normal;}
+#GDA h2{inline-size:unset;}
 #boxed h2{background-color: lightskyblue;}
 h3{background-color: rgb(245, 225, 190);}
-h2{background-color: lightskyblue;}
+h2{background-color: lightskyblue; font-style: italic;}
+#boxed h2{font-style: italic;}
 #blank h3{background-color:rgb(219, 206, 189);}
 #white h3{background-color:rgb(219, 206, 189);}
+h3{font-size: 35px;}
+h3{padding:20px;}
 body{background-color: rgb(219, 206, 189);}
+h2{padding: 10px;}
+h2{inline-size: 500px;}
+h2{margin: 0 auto;}
+p{font-size: 25px;}
+ul{background-color: white;}
